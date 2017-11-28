@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haarlem Festival", "Haarlem Festival\Haarlem Festival.csproj", "{F3289101-B5A5-4107-A135-CFD762163460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haarlem Festival.Tests", "h:\My Documents\Visual Studio 2013\Projects\Haarlem Festival\Haarlem Festival.Tests\Haarlem Festival.Tests.csproj", "{A115DF5B-B186-48F3-A82F-DA56990BD851}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haarlem Festival.Tests", "Haarlem Festival.Tests\Haarlem Festival.Tests.csproj", "{A115DF5B-B186-48F3-A82F-DA56990BD851}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
