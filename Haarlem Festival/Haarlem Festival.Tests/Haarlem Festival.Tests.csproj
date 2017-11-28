@@ -92,7 +92,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="D:\Periode 2\Project\Haarlem Festival\Haarlem Festival\Haarlem Festival.csproj">
+    <ProjectReference Include="..\Haarlem Festival\Haarlem Festival.csproj">
       <Project>{F3289101-B5A5-4107-A135-CFD762163460}</Project>
       <Name>Haarlem Festival</Name>
     </ProjectReference>
